@@ -1,0 +1,139 @@
+div#About_me_section{
+     /* background-image: url("Pictures/triangular.png"); */
+
+	
+}
+html {
+	background-image: url("Pictures/congruent_outline.png");
+}
+h1#Title_Header {
+ margin-top: 40px;
+ margin-right: 300px;
+ font-family: "Times New Roman";
+ font-size: 80px;
+ background-image: url("Pictures/natural_paper.png");
+ max-width : 350px;
+ min-width : 350px;
+}
+
+div#About_me_section h1#name{
+	margin-top: -25px;
+	margin-right: 260px;
+	margin-bottom: -150px;
+	font-family: "Times New Roman";
+	font-size: 61px;
+	color: white;
+	max-width: 200px;
+	
+}
+hr {
+	max-width: 1000px;
+}
+
+h2#job_title {
+	margin-right: 80px;
+	margin-top: -48px;
+	font-family: "Times New Roman";
+	font-size: 40px;
+	
+}
+
+p#Degree {
+	margin-right: 15px;
+	margin-top: -30px;
+	font-family: "Times New Roman";
+	color: white;
+	font-size: 20px;
+}
+
+p#contact_info{
+	margin-right: 140px;
+	margin-top: -10px;
+	font-family: "Times New Roman";
+	color: white;
+	font-size: 20px;
+	
+}
+
+p#Address{
+	margin-left: 400px;
+	margin-top: -85px;
+	font-family: "Times New Roman";
+	color: white;
+	font-size: 20px;
+	min-height: 50px;
+}
+
+h2#name{
+	margin-right: 230px;
+	margin-top: -25px;
+	font-family: "Times New Roman";
+	font-size: 40px;
+}
+
+p#description{
+	vertical-align: top;
+	margin-top: -30px;
+	font-family: "Times New Roman";
+	font-size: 20px;
+	color: white;
+	position: relative;
+}
+p#HTML_Link{
+	vertical-align: top-text;
+	margin-top: -10px;
+	font-family: "Times New Roman";
+	font-size: 20px;
+}
+
+h2#Section_name{
+	margin-right: 230px;
+	margin-top: -25px;
+	font-family: "Times New Roman";
+	font-size: 40px;
+}
+p#Skill_Set{
+	
+	vertical-align: top;
+	margin-top: -30px;
+	font-family: "Times New Roman";
+	font-size: 20px;
+	color: white;
+	
+}
+image#Me{
+	margin-left: 600px;
+	margin-bottom: 50px;
+	margin-top: -90px;
+}
+
+p#wasted{
+	margin-bottom: 100px;
+	color: white;
+}
+
+div#About_me_section{
+	margin-right: 380px;
+	min-width: 500px;
+	min-height: 400px
+}
+div#About_me_text{
+	margin-right: 180px;
+	min-width: 500px;
+}
+div#Projects_Section{
+	margin-right: 350px;
+	min-width: 500px;
+}
+div#Skills{
+	margin-right: 350px;
+	min-width: 500px;
+}
+div#Project_text{
+	margin-right: 210px;
+	min-width: 500px;
+}
+div#skill_text{
+	margin-right: 210px;
+	min-width: 500px;
+}
